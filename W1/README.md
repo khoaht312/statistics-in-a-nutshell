@@ -60,3 +60,40 @@
 
 **Correlation Coefficient**
 - [x] Measure correlation by degrees (How much correlation exists between wo variables).
+
+# Inferential Statistics
+
+**Sampling**
+- [x] carefully selected subset of the population that is intended to represent the whole
+- [x] if your sample size is large enough, then the mean and standard deviation of your sample will be the same as the mean and standard deviation of your population
+
+**Sampling Techniques**
+
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/6f07e621-945b-4cb4-b7d2-3437d97073ac)
+
+**Reshaping Data with Transformations**
+
+**Skew**
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/3e19f88a-06ea-4f45-8c79-a1c45c4ce112)
+
+**Kurtosis**
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/f1f0fc95-4fb0-477e-a885-15069a8f5a90)
+
+Four Normalizing Transformations
+- [x] Logarithmic Transformation: To find the logarithmic transformation for a numeric dataset, apply this formula to every value n in the set: =LOG10(n). You can then create a histogram for all these logarithmic values.
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/4dff2d4b-6761-473a-aeb6-10fc5fcfa73f)
+
+- [x] Cube Root Transformation: The formula for the cube root, in Excel and Google Sheets, is =n^(1/3). To find the cube root transformation, apply this cube root formula to every value n in your dataset and create a histogram for all these cube root values.
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/4ab7b7ce-b252-4626-ad88-dae21bc55217)
+
+- [x] Square Root Transformation: Likewise, the formula for the square root is =SQRT(n). To find the square root transformation, apply the square root formula to every value n in your dataset and create a histogram for all these square root values.
+ ![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/5be8d8b9-f390-43cc-9f17-4ae1f7e80c47)
+
+- [x] Square Transformation: Finally, the formula for the square of a number is =n^2. To find the square transformation, apply the squaring formula to every value n in your dataset and create a histogram for all these squared values.
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/f93e0318-ff6a-43df-a23a-7f8b0f107458)
+
+**Variable Types**
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/97070850-b48b-4060-8478-628f49fea476)
+![image](https://github.com/khoaht312/statistics-in-a-nutshell/assets/69152064/a38d45e0-ce99-46ea-ba72-f9dc91271011)
+
+
